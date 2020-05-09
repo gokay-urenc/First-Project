@@ -1,0 +1,14 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Application_1\Application_1\bin\Debug\Application_1.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Application_1\Application_1\bin\Debug\Application_1.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Application_1\Application_1\bin\Debug\Application_1.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Application_1\Application_1\obj\Debug\Application_1.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Application_1\Application_1\obj\Debug\Application_1.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Application_1\Application_1\obj\Debug\Application_1.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Application_1\Application_1\obj\Debug\Application_1.pdb
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Application_1\Application_1\bin\Debug\Application_1.exe.config
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Application_1\Application_1\bin\Debug\Application_1.exe
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Application_1\Application_1\bin\Debug\Application_1.pdb
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Application_1\Application_1\obj\Debug\Application_1.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Application_1\Application_1\obj\Debug\Application_1.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Application_1\Application_1\obj\Debug\Application_1.exe
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Application_1\Application_1\obj\Debug\Application_1.pdb
